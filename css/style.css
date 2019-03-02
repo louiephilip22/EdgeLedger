@@ -126,7 +126,7 @@ p {
   margin: 0 0.25rem;
 }
 
-#navabr ul li a:hover {
+#navr ul li a:hover {
   background: #93cb52;
   border-radius: 5px;
 }
@@ -181,6 +181,7 @@ p {
 
 #who div {
   flex: 1;
+  flex-basis: 50%;
 }
 
 #who .who-img {
@@ -207,6 +208,7 @@ p {
 #contact .map,
 #contact .contact-form {
   flex: 1;
+  flex-basis: 50%;
 }
 
 #contact .contact-form .form-group {
